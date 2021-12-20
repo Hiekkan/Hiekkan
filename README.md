@@ -366,5 +366,7 @@ Some things I only know the basics
 </a>
 </p>
 <h2 align="left">Statistics:</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiekkan&theme=chartreuse-dark&show_icons=true)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiekkan&theme=chartreuse-dark&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiekkan&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
