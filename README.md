@@ -10,10 +10,12 @@
 <h2 align="left">Languages and Tools:</h2>
 Some things I only know the basics
 
+<table><tr><td valign="top" width="33%">
+
 <h3 align="left">Programming Languages</h3>
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+<div align="center">
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
@@ -64,11 +66,15 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+</div>
+</td>
+
+<td valign="top" width="33%">
 
 <h3 align="left">Frontend Development</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
+
+<div align="center"> 
+   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
@@ -116,10 +122,14 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+</div>
+</td>
+
+<td valign="top" width="33%">
 
 <h3 align="left">Frameworks</h3>
-<p align="left">
+
+<div align="center"> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
@@ -144,10 +154,14 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+</div>
+</td>
+
+<td valign="top" width="33%">
 
 <h3 align="left">Databases</h3>
-<p align="left">
+
+<div align="center">
   <a
     href="https://www.microsoft.com/en-us/sql-server"
     target="_blank"
@@ -183,10 +197,14 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+</div>
+</td>
+
+<td valign="top" width="33%">
 
 <h3 align="left">Mobile App Development</h3>
-<p align="left">
+
+<div align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -206,9 +224,13 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+</div>
+
+</td><td valign="top" width="33%">
+
 <h3 align="left">Data Visualization</h3>
-<p align="left">
+
+<div align="center">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.chartjs.org/media/logo-title.svg"
@@ -217,7 +239,11 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+</div>
+
+</td></tr></table>  
+
+<br/> 
 
 <h3 align="left">Devops</h3>
 <p align="left">
