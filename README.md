@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nora</h1>
 <h3 align="center">A passionate developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BD600&size=25&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **setting up my github profile**
 - 🌱 I’m currently learning **Blazor**
@@ -10,9 +10,16 @@
 <h2 align="left">Languages and Tools:</h2>
 Some things I only know the basics
 
-<table><tr><td valign="top" width="33%">
+<br/>
+<br/>
 
-<h3 align="left">Programming Languages</h3>
+<table>
+<tr>
+<th><h3 algin="center">Programming Languages</h3></th>
+<th><h3 align="center">Frontend Development</h3></th>
+<th><h3 align="center">Frameworks</h3></th>
+</tr>
+<td>
 
 <div align="center">
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -31,13 +38,20 @@ Some things I only know the basics
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
@@ -58,20 +72,11 @@ Some things I only know the basics
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+
 </div>
 </td>
 
-<td valign="top" width="33%">
-
-<h3 align="left">Frontend Development</h3>
+<td>
 
 <div align="center"> 
    <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -125,9 +130,7 @@ Some things I only know the basics
 </div>
 </td>
 
-<td valign="top" width="33%">
-
-<h3 align="left">Frameworks</h3>
+<td>
 
 <div align="center"> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
@@ -157,9 +160,16 @@ Some things I only know the basics
 </div>
 </td>
 
-<td valign="top" width="33%">
+</table>
 
-<h3 align="left">Databases</h3>
+<table>
+<tr>
+<th><h3 algin="center">Databases</h3></th>
+<th><h3 align="center">Mobile App Development</h3></th>
+<th><h3 align="center">Data Visualization</h3></th>
+</tr>
+
+<td>
 
 <div align="center">
   <a
@@ -200,9 +210,7 @@ Some things I only know the basics
 </div>
 </td>
 
-<td valign="top" width="33%">
-
-<h3 align="left">Mobile App Development</h3>
+<td>
 
 <div align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -226,9 +234,9 @@ Some things I only know the basics
   </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-<h3 align="left">Data Visualization</h3>
+<td>
 
 <div align="center">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
@@ -241,12 +249,20 @@ Some things I only know the basics
   </a>
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
 
-<br/> 
+</table>  
 
-<h3 align="left">Devops</h3>
-<p align="left">
+<table>
+<tr>
+<th><h3 algin="center">Devops</h3></th>
+<th><h3 align="center">Backend as a Service (BaaS)</h3></th>
+<th><h3 align="center">Software</h3></th>
+</tr>
+
+<td align="center">
+
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -271,10 +287,9 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+</td>
 
-<h3 align="left">Backend as a Service (BaaS)</h3>
-<p align="left">
+<td align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -283,10 +298,10 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+ </td>
+  
+ <td align="center">
 
-<h3 align="left">Software</h3>
-<p align="left">
   <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
@@ -354,7 +369,9 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</p>
+  </td>
+  
+ </table> 
 
 <h3 align="left">Other</h3>
 <p align="left">
@@ -392,6 +409,10 @@ Some things I only know the basics
 </a>
 </p>
 <h2 align="left">Statistics:</h2>
+
+<h3 algin="left">My Visitor Count</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/{Hiekkan}/count.svg)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiekkan&theme=chartreuse-dark&show_icons=true)
 
