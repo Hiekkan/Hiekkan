@@ -7,17 +7,13 @@
 - 🌱 I’m currently learning **Blazor**
 - 💬 Ask me about **.NET & PowerApps**
 
-<h2 align="left">Languages and Tools:</h2>
-Some things I only know the basics
-
-<br/>
-<br/>
+<h2 align="left">Languages and Tools Skills:</h2>
 
 <table>
 <tr>
-<th><h3 algin="center">Programming Languages</h3></th>
-<th><h3 align="center">Frontend Development</h3></th>
-<th><h3 align="center">Frameworks</h3></th>
+<th><h3 algin="center">Proficient</h3></th>
+<th><h3 align="center">Competent</h3></th>
+<th><h3 align="center">Novice</h3></th>
 </tr>
 <td>
 
@@ -30,7 +26,88 @@ Some things I only know the basics
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+      alt="dotnet"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+      alt="visualstudio"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      alt="visualcode"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://powerapps.microsoft.com/images/application-logos/svg/powerapps.svg"
+      alt="powerapps"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.microsoft.com/en-us/sql-server"
+    target="_blank"
+    rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+      alt="mssql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    alt="git"
+    width="40"
+    height="40"
+  />
+</a>
+</div>
+</td>
+
+<td>
+
+<div align="center"> 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
@@ -38,7 +115,8 @@ Some things I only know the basics
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer">
     <img
@@ -48,7 +126,7 @@ Some things I only know the basics
       height="40"
     />
   </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -64,57 +142,10 @@ Some things I only know the basics
       height="40"
     />
   </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-      alt="ruby"
-      width="40"
-      height="40"
-    />
-  </a>
-
-</div>
-</td>
-
-<td>
-
-<div align="center"> 
    <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
       width="40"
       height="40"
     />
@@ -127,58 +158,10 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</div>
-</td>
-
-<td>
-
-<div align="center"> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-      alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
       alt="rails"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://powerapps.microsoft.com/images/application-logos/svg/powerapps.svg"
-      alt="powerapps"
-      width="40"
-      height="40"
-    />
-  </a>
-</div>
-</td>
-
-</table>
-
-<table>
-<tr>
-<th><h3 algin="center">Databases</h3></th>
-<th><h3 align="center">Mobile App Development</h3></th>
-<th><h3 align="center">Data Visualization</h3></th>
-</tr>
-
-<td>
-
-<div align="center">
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
       width="40"
       height="40"
     />
@@ -191,14 +174,6 @@ Some things I only know the basics
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
@@ -207,12 +182,6 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</div>
-</td>
-
-<td>
-
-<div align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -232,37 +201,6 @@ Some things I only know the basics
       height="40"
     />
   </a>
-</div>
-
-</td>
-
-<td>
-
-<div align="center">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a>
-</div>
-
-</td>
-</tr>
-
-</table>  
-
-<table>
-<tr>
-<th><h3 algin="center">Devops</h3></th>
-<th><h3 align="center">Backend as a Service (BaaS)</h3></th>
-<th><h3 align="center">Software</h3></th>
-</tr>
-
-<td align="center">
-
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -271,83 +209,12 @@ Some things I only know the basics
       height="40"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-</td>
-
-<td align="center">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
- </td>
-  
- <td align="center">
-
-  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
-      alt="visualstudio"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      alt="visualcode"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
         alt="photoshop"
         width="40"
         height="40"
-    />
-  </a>
-    <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
-        alt="premiere"
-        width="40"
-        height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer">
@@ -369,12 +236,6 @@ Some things I only know the basics
       height="40"
     />
   </a>
-  </td>
-  
- </table> 
-
-<h3 align="left">Other</h3>
-<p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -390,24 +251,106 @@ Some things I only know the basics
     width="40"
     height="40"
   />
-</a>
-<a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
     alt="rasberrypi"
     width="40"
     height="40"
   />
-</a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    alt="git"
-    width="40"
-    height="40"
-  />
-</a>
-</p>
+  </a>
+</div>
+</td>
+
+<td>
+
+<div align="center"> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+      alt="ruby"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>  
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.chartjs.org/media/logo-title.svg"
+      alt="chartjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+      alt="illustrator"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
+        alt="premiere"
+        width="40"
+        height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+</div>
+</td>
+
+</table>
+
 <h2 align="left">Statistics:</h2>
 
 <h3 algin="left">My Visitor Count</h3>
