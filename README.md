@@ -11,7 +11,7 @@
 
 <table>
 <tr>
-<th><h3 algin="center">Proficient</h3></th>
+<th><h3 align="center">Proficient</h3></th>
 <th><h3 align="center">Competent</h3></th>
 <th><h3 align="center">Novice</h3></th>
 </tr>
@@ -83,9 +83,7 @@
     />
   </a>
   <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer">
+    href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
       alt="mssql"
@@ -115,10 +113,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -130,14 +125,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
       width="40"
       height="40"
     />
@@ -162,6 +149,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
       alt="rails"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
       width="40"
       height="40"
     />
@@ -191,20 +186,10 @@
     />
   </a>
   <a
-    href="https://dotnet.microsoft.com/apps/xamarin"
-    target="_blank"
-    rel="noreferrer">
+    href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
       alt="xamarin"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure"
       width="40"
       height="40"
     />
@@ -217,6 +202,14 @@
         height="40"
     />
   </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+      alt="azure"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"
@@ -226,9 +219,7 @@
     />
   </a>
   <a
-    href="https://www.atlassian.com/software/jira"
-    target="_blank"
-    rel="noreferrer">
+    href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
       alt="jira"
@@ -330,14 +321,6 @@
         height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -346,6 +329,30 @@
       height="40"
     />
   </a>
+  <a href="https://unity.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+      alt="unity"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.blender.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"
+      alt="blender"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.aseprite.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/9/98/Aseprite_logo.png"
+      alt="asesprite"
+      width="40"
+      height="40"
+    />
+  </a>   
 </div>
 </td>
 
@@ -353,7 +360,7 @@
 
 <h2 align="left">Statistics:</h2>
 
-<h3 algin="left">My Visitor Count</h3>
+<h3 align="left">My Visitor Count</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Hiekkan}/count.svg)
 
