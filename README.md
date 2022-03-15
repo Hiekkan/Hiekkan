@@ -237,7 +237,7 @@
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img
-    src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
     alt="bash"
     width="40"
     height="40"
