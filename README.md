@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nora</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A full-blooded developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BD600&size=25&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **setting up my github profile**
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **Blender**
 - 💬 Ask me about **.NET & PowerApps**
 
 <h2 align="left">Languages and Tools Skills:</h2>
@@ -345,14 +345,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.aseprite.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/9/98/Aseprite_logo.png"
-      alt="asesprite"
-      width="40"
-      height="40"
-    />
-  </a>   
 </div>
 </td>
 
