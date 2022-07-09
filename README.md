@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BD600&size=25&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **setting up my github profile**
-- 🌱 I’m currently learning **Blender**
+- 🔭 I’m currently working on **creating my own portfolio**
+- 🌱 I’m currently learning **Blender & Three.js**
 - 💬 Ask me about **.NET & PowerApps**
 
 <h2 align="left">Languages and Tools Skills:</h2>
@@ -341,6 +341,14 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"
       alt="blender"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://threejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg"
+      alt="three.js"
       width="40"
       height="40"
     />
