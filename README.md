@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **creating my own portfolio**
 - 🌱 I’m currently learning **Blender & Three.js**
-- 💬 Ask me about **.NET & PowerApps**
+- 💬 Ask me about **.NET**
 
 <h2 align="left">Languages and Tools Skills:</h2>
 
@@ -247,6 +247,14 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
     alt="rasberrypi"
+    width="40"
+    height="40"
+  />
+  </a>
+   <a href="https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview" target="_blank" rel="noreferrer">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg"
+    alt="sharepoint"
     width="40"
     height="40"
   />
