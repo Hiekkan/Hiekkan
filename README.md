@@ -137,10 +137,10 @@
       height="40"
     />
   </a>
-  <a href="https://jquery.com" target="_blank" rel="noreferrer">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
-      alt="jquery"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+      alt="react"
       width="40"
       height="40"
     />
@@ -169,22 +169,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
   <a
     href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
     <img
@@ -206,23 +190,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
       alt="azure"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"
-      alt="bitbucket"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
-      alt="jira"
       width="40"
       height="40"
     />
@@ -265,14 +232,6 @@
 <td>
 
 <div align="center"> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-      alt="ruby"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -280,23 +239,7 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>  
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a>
+  </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -329,14 +272,6 @@
         height="40"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://unity.com" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
@@ -357,6 +292,14 @@
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg"
       alt="three.js"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+      alt="figma"
       width="40"
       height="40"
     />
