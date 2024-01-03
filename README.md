@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BD600&size=25&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **creating my own portfolio**
+- 🔭 I’m currently working on **setting up Home Assistant**
 - 🌱 I’m currently learning **Blender & Three.js**
 - 💬 Ask me about **.NET**
 
