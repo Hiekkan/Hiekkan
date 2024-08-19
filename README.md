@@ -137,7 +137,7 @@
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
     alt="bash"
     width="40"
     height="40"
@@ -242,4 +242,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiekkan&theme=chartreuse-dark&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiekkan&theme=chartreuse-dark&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiekkan&theme=chartreuse-dark&layout=compact&count_private=)](https://github.com/anuraghazra/github-readme-stats)
