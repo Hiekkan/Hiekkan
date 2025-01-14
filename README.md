@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nora</h1>
-<h3 align="center">A full-blooded developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BD600&size=25&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **setting up Home Assistant**
+- 🔭 I’m currently working on **personal projects**
 - 🌱 I’m currently learning **Blender & Three.js**
 - 💬 Ask me about **.NET**
 
@@ -167,6 +167,14 @@
       height="40"
     />
   </a>
+   <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Home_Assistant_logo_%282023%29.svg/1024px-Home_Assistant_logo_%282023%29.svg.png"
+      alt="home assistant"
+      width="40"
+      height="40"
+    />
+  </a>
 </div>
 </td>
 
@@ -228,6 +236,14 @@
     width="40"
     height="40"
     />  
+  </a>
+   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"
+    alt="after effects"
+    width="40"
+    height="40"
+    />
   </a>
 </div>
 </td>
