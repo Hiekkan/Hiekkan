@@ -1,261 +1,54 @@
 <h1 align="center">Hi 👋, I'm Nora</h1>
-<h3 align="center">A passionate developer</h3>
+<h2 align="center">A passionate frontend developer & UI/UX designer</h2>
+<h3 align="center">From front to back all over the fullstack</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BD600&size=25&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%41a5dc&size=25&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **personal projects**
-- 🌱 I’m currently learning **Blender & Three.js**
-- 💬 Ask me about **.NET**
+I’m a full-stack developer with a strong foundation in both engineering and design, currently in my final year of Interaction Design studies, with a growing focus on crafting engaging and intuitive frontend experiences.
 
-<h2 align="left">Languages and Tools Skills:</h2>
+### 👩🏼‍💻 Tech Stack:
 
-<table>
-<tr>
-<th><h3 align="center">Proficient</h3></th>
-<th><h3 align="center">Competent</h3></th>
-<th><h3 align="center">Novice</h3></th>
-</tr>
-<td>
-
-<div align="center">
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-      alt="dotnet core"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-    alt="bootstrap"
-    width="40"
-    height="40"
-  />
-  </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </div>
-</td>
 
-<td>
-<div align="center"> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg"
-      alt="rails"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-      alt="azure"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
-    alt="bash"
-    width="40"
-    height="40"
-  />
-  </a>
-   <a href="https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview" target="_blank" rel="noreferrer">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg"
-    alt="sharepoint"
-    width="40"
-    height="40"
-  />
-  </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Home_Assistant_logo_%282023%29.svg/1024px-Home_Assistant_logo_%282023%29.svg.png"
-      alt="home assistant"
-      width="40"
-      height="40"
-    />
-  </a>
+<div align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-</td>
 
-<td>
+### 🥰 Things I love:
 
-<div align="center"> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a> 
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
-        alt="premiere"
-        width="40"
-        height="40"
-    />
-  </a>
-  <a href="https://unity.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
-      alt="unity"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.blender.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
-      alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://threejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
-      alt="three.js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
-    alt="grafana"
-    width="40"
-    height="40"
-    />  
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
-    alt="terraform"
-    width="40"
-    height="40"
-    />  
-  </a>
-   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"
-    alt="after effects"
-    width="40"
-    height="40"
-    />
-  </a>
+<div align="left">
+  <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
+  <img src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white"/>
 </div>
-</td>
 
-</table>
+### 🚀 Currently trying to learn:
 
-<h2 align="left">Statistics:</h2>
+<div align="left">
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
+</div>
 
-<h3 align="left">My Visitor Count</h3>
+### 📊 Stats:
 
-![Visitor Count](https://profile-counter.glitch.me/{Hiekkan}/count.svg)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiekkan&theme=tokyonight&show_icons=true&count_private=true)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiekkan&theme=chartreuse-dark&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiekkan&theme=chartreuse-dark&layout=compact&count_private=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiekkan&theme=tokyonight&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
